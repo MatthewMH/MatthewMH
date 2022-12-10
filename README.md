@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MatthewMH
+- 👋 Hi, I’m Matthew.
 - 👀 I’m interested in data science, machine learning and deep learning.
-- 🌱 I’m currently learning Django to create a website that integrates Single Shot Multibox Detector with iForest algorithm.
+- 🌱 I’m currently learning NLP and Computer Vision.
 - 💞️ I’m looking to collaborate on many data science projects and internships.
 - 📫 Email : matthewmartianush@gmail.com
 
