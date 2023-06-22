@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matthew.
 - 👀 I’m interested in data science, machine learning and deep learning.
-- 🌱 I’m currently learning NLP and Computer Vision.
-- 💞️ I’m looking for an a data scientist job.
+- 🌱 I’m an data scientist in progress.
+- 💞️ I’m looking for a job as a data scientist.
 - 📫 Email : matthewmartianush@gmail.com
 
 <!---
