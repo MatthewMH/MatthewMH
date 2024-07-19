@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew.
 - 👀 I’m interested in data science, machine learning and deep learning.
-- 🌱 I’m an data scientist in progress.
+- 🌱 A work in progress.
 - 📫 Email : matthewmartianush@gmail.com
 
 <!---
